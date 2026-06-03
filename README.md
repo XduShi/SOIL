@@ -1,6 +1,6 @@
 <div align="left">
 
-# SOIL: [Semi-Supervised SAR-to-Optical Image Translation via Multi-Scale and Cross-Set MatchingYour Paper Title] (TIP 2025)
+# SOIL: [Semi-Supervised SAR-to-Optical Image Translation via Multi-Scale and Cross-Set Matching] (TIP 2025)
 
 </div>
 
@@ -59,7 +59,8 @@ bash Python 3.10 PyTorch 2.0+ CUDA 11.8
 
 If you find this project useful for your research, please consider citing:
 
-bibtex @ARTICLE{11196005,
+```bibtex
+@article{11196005,
 author={Yang, Xi and Shi, Haoyuan and Li, Ziyun and Qiao, Maoying and Gao, Fei and Wang, Nannan},
 journal={IEEE Transactions on Image Processing},
 title={S3OIL: Semi-Supervised SAR-to-Optical Image Translation via Multi-Scale and Cross-Set Matching},
@@ -70,7 +71,8 @@ pages={6641-6654},
 keywords={Semantics;Translation;Optical sensors;Synthetic aperture radar;Optical imaging;Feature extraction;Data models;Semisupervised learning;Accuracy;Noise;Semi-supervised learning;cross-set alignment matching (CAM);multi-scale matching (MSM);intra-modal semantic consistency (ISC);cross-modal semantic consistency (CSC)},
 doi={10.1109/TIP.2025.3616576}}
 
----
+```
+
 
 <div align="center">
 
