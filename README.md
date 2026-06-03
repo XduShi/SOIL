@@ -12,6 +12,9 @@ Official PyTorch Implementation of SOIL
   <a href="https://ieeexplore.ieee.org/document/11196005/">📄 Paper</a>
 </p>
 
+<p align="left">
+  <a href="https://drive.google.com/drive/folders/1OQw0daZy-zcYreEW8TnrT5jrqNMSz5uH?usp=sharing">📄 Weights</a>
+</p>
 ---
 
 # Abstract
